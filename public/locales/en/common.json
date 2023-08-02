@@ -1,0 +1,79 @@
+{
+  "questions": [
+    {
+      "question": "Which of the below statements about electricity is not true?",
+      "options": ["Electricity is measured in units called watts", "Electricity flows at the speed of light", "Electricity is a primary energy source", "Electricity flows at the speed of light"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the below statements about light is not true?",
+      "options": ["Optiodasdadan A", "WeeeOdadasdasdption B", "Odasffdsfsdfption C", "Ofsdfsdfsdfsdption D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the below statements about climate is not true?",
+      "options": ["sasaOptionasdadadadadsasda 1", "ODSDSptiondasdadadasdasd 2", "Option dadadadas3", "Optiodadasdasdadasn 4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the below statements about plasma is not true?",
+      "options": ["cxcxcOptiodasdadan A", "Osasadadasdasdption B", "Odasffdsfsdfption C", "Ofsdfsdfsdfsdption D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Which of the below statements about electricity is not true?",
+      "options": ["vvvOptionasdadadadadsasda 1", "Orrptiondasdadadasdasd 2", "Option dadadadas3", "Optiodadasdasdadasn 4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the below statements about electricity is not true?",
+      "options": ["Optiodasdadan A", "Odadasdasdption B", "Odasffdsfsdfption C", "Ofsdfsdfsdfsdption D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Question 7",
+      "options": ["Optionasdadadadadsasda 1", "Optiondasdadadasdasd 2", "Option dadadadas3", "Optiodadasdasdadasn 4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Question 8",
+      "options": ["Optiodasdadan A", "Odadasdasdption B", "Odasffdsfsdfption C", "Ofsdfsdfsdfsdption D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Question 9",
+      "options": ["Optionasdadadadadsasda 1", "Optiondasdadadasdasd 2", "Option dadadadas3", "Optiodadasdasdadasn 4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Question 10",
+      "options": ["Optiodasdadan A", "Odadasdasdption B", "Odasffdsfsdfption C", "Ofsdfsdfsdfsdption D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Question 11",
+      "options": ["Optionasdadadadadsasda 1", "Optiondasdadadasdasd 2", "Option dadadadas3", "Optiodadasdasdadasn 4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Question 12",
+      "options": ["Optiodasdadan A", "Odadasdasdption B", "Odasffdsfsdfption C", "Ofsdfsdfsdfsdption D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Question 13",
+      "options": ["Optionasdadadadadsasda 1", "Optiondasdadadasdasd 2", "Option dadadadas3", "Optiodadasdasdadasn 4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Question 14",
+      "options": ["Optiodasdadan A", "Odadasdasdption B", "Odasffdsfsdfption C", "Ofsdfsdfsdfsdption D"],
+      "correctIndex": 2
+    },
+    {
+      "question": "Question 15",
+      "options": ["Optionasdadadadadsasda 1", "Optiondasdadadasdasd 2", "Option dadadadas3", "Optiodadasdasdadasn 4"],
+      "correctIndex": 1
+    }
+  ]
+}

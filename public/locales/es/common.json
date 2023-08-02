@@ -1,0 +1,14 @@
+{
+  "questions": [
+    {
+      "question": "Pregunta 1",
+      "options": ["Opción 1", "Opción 2", "Opción 3", "Opción 4"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Pregunta 2",
+      "options": ["Opción A", "Opción B", "Opción C", "Opción D"],
+      "correctIndex": 2
+    }
+  ]
+}
